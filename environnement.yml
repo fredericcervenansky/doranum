@@ -1,0 +1,5 @@
+name: doranum-environment
+
+dependencies:
+  - pydicom
+  - numpy
