@@ -1,4 +1,4 @@
-name: doranum-environment
+name: doranum
 
 dependencies:
   - pydicom
